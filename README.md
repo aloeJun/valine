@@ -90,7 +90,7 @@ fork此库后在 `valine.min.js` 中查询 `https://cdn.jsdelivr.net/gh/ialoe/va
 
 ## 效果演示
 
-![演示](img/1.jpg)
+![演示](https://cdn.jsdelivr.net/gh/ialoe/valine@master/img/1.jpg)
 
-![演示](img/2.jpg)
+![演示](https://cdn.jsdelivr.net/gh/ialoe/valine@master/img/2.jpg)
 
