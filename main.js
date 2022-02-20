@@ -3,7 +3,7 @@ document.getElementById("roboter").addEventListener('click', function () {
 	let robot_check_text = document.getElementById("robot-check-text")
 	robot_check_text.innerHTML = '·&nbsp;&nbsp;&nbsp;&nbsp;验证成功'
 	document.getElementById("robotxian").style.backgroundColor = "#26a69a"
-	document.getElementById("robotimg").src = 'https://files.islu.cn/detail/robot.png'
+	document.getElementById("robotimg").src = 'https://cdn.jsdelivr.net/gh/ialoe/valine@master/img/robot.png'
 	robot_check_text.style.color = "#26a69a"
 })
 
